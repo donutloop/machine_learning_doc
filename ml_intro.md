@@ -39,3 +39,9 @@ x3 = x1 * x2
 We treat this newly minted x3 feature cross just like any other feature. The linear formula becomes:
 
 y = b + w1 * x1 + w2 * x2 + w3 * x3
+
+# Labels
+
+A label is the thing we're predicting—the y variable in simple linear regression. The label could be the future price of wheat, the kind of animal shown in a picture, the meaning of an audio clip, or just about anything
+
+
