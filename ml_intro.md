@@ -47,3 +47,25 @@ A label is the thing we're predicting—the y variable in simple linear regressi
 ## Features
 
 A feature is an input variable—the x variable in simple linear regression. A simple machine learning project might use a single feature, while a more sophisticated machine learning project could use millions of features
+
+## Regularization
+
+In other words, instead of simply aiming to minimize loss (empirical risk minimization):
+
+minimize(Loss(Data|Model))
+
+we'll now minimize loss+complexity, which is called structural risk minimization:
+
+minimize(Loss(Data|Model) + complexity(Model))
+
+Our training optimization algorithm is now a function of two terms: the loss term, which measures how well the model fits the data, and the regularization term, which measures model complexity.
+
+* Model complexity as a function of the weights of all the features in the model.
+* Model complexity as a function of the total number of features with nonzero weights. 
+
+We can quantify complexity using the L2 regularization formula
+
+
+
+
+
