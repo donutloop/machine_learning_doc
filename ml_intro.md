@@ -40,8 +40,10 @@ We treat this newly minted x3 feature cross just like any other feature. The lin
 
 y = b + w1 * x1 + w2 * x2 + w3 * x3
 
-# Labels
+## Labels
 
 A label is the thing we're predicting—the y variable in simple linear regression. The label could be the future price of wheat, the kind of animal shown in a picture, the meaning of an audio clip, or just about anything
 
+## Features
 
+A feature is an input variable—the x variable in simple linear regression. A simple machine learning project might use a single feature, while a more sophisticated machine learning project could use millions of features
