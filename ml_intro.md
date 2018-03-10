@@ -29,3 +29,13 @@ the square of the difference between the label and the prediction
     * Non-convex: think of an egg crate
     * More than one minimum
     * Strong dependency on initial values    
+
+## feature cross
+
+A feature cross is a synthetic feature that encodes nonlinearity in the feature space by multiplying two or more input features together. (The term cross comes from cross product.) Let's create a feature cross named x3 by crossing x1 and x2:    
+
+x3 = x1 * x2
+
+We treat this newly minted x3 feature cross just like any other feature. The linear formula becomes:
+
+y = b + w1 * x1 + w2 * x2 + w3 * x3
