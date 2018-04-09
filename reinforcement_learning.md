@@ -42,3 +42,31 @@ An informationen state (a.k.a Markov state) contains all useful information from
     * A model predicts what the environment will do next 
     * Transitions: P predicts the next state
     * Rewards: R predicts the next (immediate) reward
+
+
+## Markov decision processes 
+
+A Markov process is a memoryless random process i.e a sequence of random states S1, S2, ... with the Markov property
+
+* Markov decision processes formally describe an enviroment for Reinforcement Learning 
+* Where the environment is fully observable 
+* The current state completely characteries the process 
+* Almost all RL problems can be formalised as MDPs, e.g
+    * Optimal control primarily deals with continuous MDPs
+    * Partially observable problems can be converted into MDPs
+    * Bandits are MDPs with on state 
+
+## Markov Property 
+
+"The future is independent of the past given the present"
+
+* The state captures all relevant information from the history
+* Once the state is known, the history may be thrown away 
+* The state is a sufficient statistic of the future
+
+
+## Value function 
+
+The value function v(s) gives the long-term value of state s
+
+
