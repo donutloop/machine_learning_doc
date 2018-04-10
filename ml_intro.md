@@ -66,6 +66,12 @@ Our training optimization algorithm is now a function of two terms: the loss ter
 We can quantify complexity using the L2 regularization formula
 
 
+## Overfitting (High variance)
 
+if we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples (predict values on new examples)
 
+### Addressing overfitting
 
+* Reduce number of features
+    * Manually select which features to keep 
+    * Model selection algorithm (automatically choosing of features)
