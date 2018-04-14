@@ -48,7 +48,7 @@ A label is the thing we're predicting—the y variable in simple linear regressi
 
 A feature is an input variable—the x variable in simple linear regression. A simple machine learning project might use a single feature, while a more sophisticated machine learning project could use millions of features
 
-## Regularization
+## Regularization (Simpler hypothesis)
 
 In other words, instead of simply aiming to minimize loss (empirical risk minimization):
 
@@ -65,6 +65,11 @@ Our training optimization algorithm is now a function of two terms: the loss ter
 
 We can quantify complexity using the L2 regularization formula
 
+### Example 
+
+![Regularization](images/regularization.png)
+
+Reduced polynomial to quadratic function to reduce minimze complexity
 
 ## Overfitting (High variance)
 
