@@ -21,3 +21,8 @@ if network has sj units in layer j, sj + 1 units in layer j + 1, 0j then will be
 ### Other Neural Network Architectures
 
 ![other_neural_network_architectures](images/other_neural_network_architectures.png)
+
+
+### Binary Neural Network (AND)
+
+![binary_neural_network](images/binary_neural_network.png)
