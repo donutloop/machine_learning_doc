@@ -30,3 +30,7 @@ if network has sj units in layer j, sj + 1 units in layer j + 1, 0j then will be
 ### Binary Neural Network (XNOR)
 
 ![all_binary_operations_comb](images/all_binary_operations_comb.png)
+
+### Neural network logistic regression cost function
+
+![neural_network_logistic_regression_cost_function](images/neural_network_logistic_regression_cost_function.png)
