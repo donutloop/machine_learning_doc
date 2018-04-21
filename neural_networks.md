@@ -26,3 +26,7 @@ if network has sj units in layer j, sj + 1 units in layer j + 1, 0j then will be
 ### Binary Neural Network (AND)
 
 ![binary_neural_network](images/binary_neural_network.png)
+
+### Binary Neural Network (XNOR)
+
+![all_binary_operations_comb](images/all_binary_operations_comb.png)
