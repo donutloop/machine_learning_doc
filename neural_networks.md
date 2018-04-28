@@ -34,3 +34,7 @@ if network has sj units in layer j, sj + 1 units in layer j + 1, 0j then will be
 ### Neural network logistic regression cost function
 
 ![neural_network_logistic_regression_cost_function](images/neural_network_logistic_regression_cost_function.png)
+
+### Back propagation 
+
+![backpropagation](images/backprogagation.png)
