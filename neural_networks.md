@@ -38,3 +38,8 @@ if network has sj units in layer j, sj + 1 units in layer j + 1, 0j then will be
 ### Back propagation 
 
 ![backpropagation](images/backprogagation.png)
+
+### Gradient decent
+
+![gd](images/gd.png))
+
