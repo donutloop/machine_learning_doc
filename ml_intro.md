@@ -81,7 +81,7 @@ if we have too many features, the learned hypothesis may fit the training set ve
     * Manually select which features to keep 
     * Model selection algorithm (automatically choosing of features)
 
-### Multi-class perceptron
+## Multi-class perceptron
 
 Let CC denote the number of output classes. We want to perform multiple linear classifications in parallel, one for each of the CC classes. To do this, we introduce a weight vector for each class (w1,w2,…,wCw1,w2,…,wC) and a bias value for each class (b1,b2,…,bCb1,b2,…,bC). The output of our perceptron should now be a CC-dimensional vector, each of whose entries contains the probability of the respective class:
 
@@ -94,7 +94,7 @@ $$output = \left(
 \end{array} 
 \right)$$
 
-### Softmax
+## Softmax
 
 When the output classes are disjoint, the output probabilities should sum up to one. In this case, we apply the softmax function to the vector a = xW + b  instead of the element-wise sigmoid, which makes sure that each probability is between 0 and 1 and the sum of the probabilities is 1:
 
