@@ -109,3 +109,10 @@ $$\sigma(a)_i = \frac{e^{a_i}}{\sum_{j = 1}^C e^{a_j}}$$
 * Try decreasing lamda
 * Try inreasing lamba
 
+## Bias/Variance
+
+![bias_variance](images/bias_variance.png)
+
+ ## Diagnosing Bias vs Variance
+
+ ![diagnosing_bias_variance](images/diagnosing_bias_variance.png)
