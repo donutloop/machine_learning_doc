@@ -99,3 +99,13 @@ $$output = \left(
 When the output classes are disjoint, the output probabilities should sum up to one. In this case, we apply the softmax function to the vector a = xW + b  instead of the element-wise sigmoid, which makes sure that each probability is between 0 and 1 and the sum of the probabilities is 1:
 
 $$\sigma(a)_i = \frac{e^{a_i}}{\sum_{j = 1}^C e^{a_j}}$$
+
+## Debugging a learning algorithm
+
+* Get more tranining examples 
+* Try smaller sets of features 
+* Try getting additional features 
+* Try adding polynomial features 
+* Try decreasing lamda
+* Try inreasing lamba
+
