@@ -116,3 +116,17 @@ $$\sigma(a)_i = \frac{e^{a_i}}{\sum_{j = 1}^C e^{a_j}}$$
  ## Diagnosing Bias vs Variance
 
  ![diagnosing_bias_variance](images/diagnosing_bias_variance.png)
+
+ ## Error analysis (Recommended approach)
+
+ * Start with a simple algorithm that you can implement quickly, Implement it and test it on your cross validation data.
+ * Plot learning curves to decide if more data, more features, etc are likley to help.
+ * Error analysis: Manually examine the examples (in cross validation set) that your algorithm made errors on. See if you spot 
+ any systematic trend in what type of examples it is making errors on.
+
+ ### Example 
+ * mcv = 500 examples in cross validation set 
+ * Alogrithm misclassifies 100 mails
+ * Manually examine the 100 errors, and categorize them based on 
+    * What type of email it is 
+    * What cues (features) you think would have helped the algorithm classify them correctly
