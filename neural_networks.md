@@ -18,6 +18,10 @@
 
 if network has sj units in layer j, sj + 1 units in layer j + 1, 0j then will be of diemension sj+1 * (sj +1). 
 
+### Example 
+
+![neuron_example](images/neuron_example.png)
+
 ### Other Neural Network Architectures
 
 ![other_neural_network_architectures](images/other_neural_network_architectures.png)
