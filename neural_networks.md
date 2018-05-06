@@ -18,7 +18,7 @@
 
 if network has sj units in layer j, sj + 1 units in layer j + 1, 0j then will be of diemension sj+1 * (sj +1). 
 
-### Example 
+### Housing Price Prediction Example 
 
 ![neuron_example](images/neuron_example.png)
 
