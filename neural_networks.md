@@ -64,3 +64,6 @@ Pick a network architecture (connecctivity pattern between neurons)
 7. Use gradient checking to compare partial derivatives computed using back propagation vs using numerical estimate of gradient decent of j(theta) then disable gradient checking code 
 8. Use gradient descent or advanced optimization method with back propagation to try to minimize j(theta) as a function of parameters (theta)
 
+### Neural network computing graph
+
+![compunting_neural_network](images/compunting_neural_network.png)
