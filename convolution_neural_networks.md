@@ -33,10 +33,16 @@ Take out from each coloured section the max value
 
 ## Pooling layer: Average pooling
 
-Calculate for each coloured section the average value
+Calculate for each coloured section th  e average value
 
 ![average](images/average_pooling.png)
 
 ## Convolutional Neural Network Example
 
 ![ Convolutional Neural Network Example](images/convolutional_neural_network_example.png)
+
+## Why Convolutions
+
+* Parameter sharing: A feature detector (such as vertical edge detector) that's useful in one part of the image is probably useful in
+another part of the image
+* Sparsity of connections: In each layer, each output value depends only on a small numbers of inputs
