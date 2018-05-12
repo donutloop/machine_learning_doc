@@ -25,14 +25,18 @@ If layer l is a convolution layer:
 * Pooling (pool)
 * Fully connected (fc)
 
-# Pooling layer: Max pooling
+## Pooling layer: Max pooling
 
 Take out from each coloured section the max value 
 
 ![max](images/max_pooling.png)
 
-# Pooling layer: Average pooling
+## Pooling layer: Average pooling
 
 Calculate for each coloured section the average value
 
 ![average](images/average_pooling.png)
+
+## Convolutional Neural Network Example
+
+![ Convolutional Neural Network Example](images/convolutional_neural_network_example.png)
