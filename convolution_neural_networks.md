@@ -14,3 +14,7 @@ If layer l is a convolution layer:
 * Input: n * n * nc
 * output n * n * nc
 * Each filter is: f[l] * f[l] *nc
+
+## A Simple Convolution Network Example
+
+![A Simple Convolution Network Example](images/a_simple_convolution_network_example.png)
