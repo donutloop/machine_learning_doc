@@ -24,3 +24,15 @@ If layer l is a convolution layer:
 * Convolution (conv)
 * Pooling (pool)
 * Fully connected (fc)
+
+# Pooling layer: Max pooling
+
+Take out from each coloured section the max value 
+
+![max](images/max_pooling.png)
+
+# Pooling layer: Average pooling
+
+Calculate for each coloured section the average value
+
+![average](images/average_pooling.png)
