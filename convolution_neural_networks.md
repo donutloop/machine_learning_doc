@@ -18,3 +18,9 @@ If layer l is a convolution layer:
 ## A Simple Convolution Network Example
 
 ![A Simple Convolution Network Example](images/a_simple_convolution_network_example.png)
+
+## Types of layer in convolutionl network
+
+* Convolution (conv)
+* Pooling (pool)
+* Fully connected (fc)
