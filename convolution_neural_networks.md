@@ -46,3 +46,22 @@ Calculate for each coloured section th  e average value
 * Parameter sharing: A feature detector (such as vertical edge detector) that's useful in one part of the image is probably useful in
 another part of the image
 * Sparsity of connections: In each layer, each output value depends only on a small numbers of inputs
+
+## Classic networks
+
+* LeNet-5 
+* AlexNet
+* VGG
+
+## New networks
+
+* ResNet
+* Inception (RNN)
+
+## Papers
+
+* [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+* [ImageNet Classification with Deep Convolutional
+Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
