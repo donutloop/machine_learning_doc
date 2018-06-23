@@ -5,3 +5,7 @@
 ## Predict a y 
 
 ![rnn_predict](images/reccurent_neural_networks_predict.png)
+
+## RNN notation
+
+![RNN_notation](images/RNN_notation.png)
