@@ -21,3 +21,7 @@
 ## Language model and sequence generation
 
 ![language_model_and_sequence_generation](images/language_model_and_sequence_generation.png)
+
+## Gated Recurrent Unit GRU
+
+![ Gated Recurrent Unit GRU](images/gated_recurrent_unit.png)
