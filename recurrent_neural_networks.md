@@ -13,3 +13,7 @@
 ## Forward propagation and back propagation (through time)
 
 ![rnn_back_forward](images/rnn_back_and_forward_propagation.png)
+
+## Different types of RNNs
+
+![types](images/different_types_of_RNNs.png)
