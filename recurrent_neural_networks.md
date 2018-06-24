@@ -17,3 +17,7 @@
 ## Different types of RNNs
 
 ![types](images/different_types_of_RNNs.png)
+
+## Language model and sequence generation
+
+![language_model_and_sequence_generation](images/language_model_and_sequence_generation.png)
