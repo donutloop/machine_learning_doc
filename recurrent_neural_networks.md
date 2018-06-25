@@ -25,3 +25,7 @@
 ## Gated Recurrent Unit GRU
 
 ![ Gated Recurrent Unit GRU](images/gated_recurrent_unit.png)
+
+## Bidirectional RNN 
+
+![bi](images/rnn_bidirectional.png)
