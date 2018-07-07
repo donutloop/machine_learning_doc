@@ -37,3 +37,7 @@
 ## Tree softmax 
 
 ![tree-softmax](images/tree_softmax.png)
+
+## Sentiment Classification
+
+![sentiment-classification](images/sentiment_classification.png)
