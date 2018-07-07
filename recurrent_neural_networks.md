@@ -33,3 +33,7 @@
 ## Skip-grams
 
 ![skip-grams](images/skip-grams.png)
+
+## Tree softmax 
+
+![tree-softmax](images/tree_softmax.png)
