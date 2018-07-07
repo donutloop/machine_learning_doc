@@ -29,3 +29,7 @@
 ## Bidirectional RNN 
 
 ![bi](images/rnn_bidirectional.png)
+
+## Skip-grams
+
+![skip-grams](images/skip-grams.png)
