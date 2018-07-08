@@ -41,3 +41,7 @@
 ## Sentiment Classification
 
 ![sentiment-classification](images/sentiment_classification.png)
+
+## Sequence to Sequence model (image captioning)
+
+![sequence_to_sequence_model_image_captioning](images/sequence_to_sequence_model_image_captioning.png)
