@@ -67,3 +67,7 @@ Pick a network architecture (connecctivity pattern between neurons)
 ### Neural network computing graph
 
 ![compunting_neural_network](images/compunting_neural_network.png)
+
+## Activation functions
+
+![activation_functions](images/activation_functions.png)
