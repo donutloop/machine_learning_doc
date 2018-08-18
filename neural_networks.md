@@ -74,4 +74,8 @@ Pick a network architecture (connecctivity pattern between neurons)
 
 ## Derivatives of activation functions
 
-![activation_functions](images/derivatives_of_activation_functions.png)
+![activation_functions](images/derivatives_of_activation_functions.png) 
+
+## Gradient descent for Neural Networks
+
+![Gradient descent for Neural Networks](images/gradient_descent_for_neural_networks.png)
