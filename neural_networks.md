@@ -71,3 +71,7 @@ Pick a network architecture (connecctivity pattern between neurons)
 ## Activation functions
 
 ![activation_functions](images/activation_functions.png)
+
+## Derivatives of activation functions
+
+![activation_functions](images/derivatives_of_activation_functions.png)
