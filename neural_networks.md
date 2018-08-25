@@ -79,3 +79,7 @@ Pick a network architecture (connecctivity pattern between neurons)
 ## Gradient descent for Neural Networks
 
 ![Gradient descent for Neural Networks](images/gradient_descent_for_neural_networks.png)
+
+# Matrix dimensions 
+
+![neural_network_dimension](images/neural_network_dimension.png)
