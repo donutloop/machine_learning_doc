@@ -83,3 +83,7 @@ Pick a network architecture (connecctivity pattern between neurons)
 # Matrix dimensions 
 
 ![neural_network_dimension](images/neural_network_dimension.png)
+
+# Building blocks of Deep Neural Networks
+
+![building_blocks_of_deep_neural_networks](images/building_blocks_of_deep_neural_networks.png)
