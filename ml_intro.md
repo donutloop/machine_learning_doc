@@ -71,6 +71,10 @@ We can quantify complexity using the L2 regularization formula
 
 Reduced polynomial to quadratic function to reduce minimze complexity
 
+### Logistic regression regularization
+
+![Logistic regression regularization](images/logistic_regression_regularization.png)
+
 ## Multi-class perceptron
 
 Let CC denote the number of output classes. We want to perform multiple linear classifications in parallel, one for each of the CC classes. To do this, we introduce a weight vector for each class (w1,w2,…,wCw1,w2,…,wC) and a bias value for each class (b1,b2,…,bCb1,b2,…,bC). The output of our perceptron should now be a CC-dimensional vector, each of whose entries contains the probability of the respective class:
