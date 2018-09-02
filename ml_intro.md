@@ -71,16 +71,6 @@ We can quantify complexity using the L2 regularization formula
 
 Reduced polynomial to quadratic function to reduce minimze complexity
 
-## Overfitting (High variance)
-
-if we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples (predict values on new examples)
-
-### Addressing overfitting
-
-* Reduce number of features
-    * Manually select which features to keep 
-    * Model selection algorithm (automatically choosing of features)
-
 ## Multi-class perceptron
 
 Let CC denote the number of output classes. We want to perform multiple linear classifications in parallel, one for each of the CC classes. To do this, we introduce a weight vector for each class (w1,w2,…,wCw1,w2,…,wC) and a bias value for each class (b1,b2,…,bCb1,b2,…,bC). The output of our perceptron should now be a CC-dimensional vector, each of whose entries contains the probability of the respective class:
@@ -113,9 +103,23 @@ $$\sigma(a)_i = \frac{e^{a_i}}{\sum_{j = 1}^C e^{a_j}}$$
 
 ![bias_variance](images/bias_variance.png)
 
- ## Diagnosing Bias vs Variance
+## High bias and high variance
 
- ![diagnosing_bias_variance](images/diagnosing_bias_variance.png)
+![high_bias_and_high_variance](images/high_bias_and_high_variance.png)
+
+## Diagnosing Bias vs Variance
+
+![diagnosing_bias_variance](images/diagnosing_bias_variance.png)
+
+## Overfitting (High variance)
+
+if we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples (predict values on new examples)
+
+### Addressing overfitting
+
+* Reduce number of features
+    * Manually select which features to keep 
+    * Model selection algorithm (automatically choosing of features)
 
  ## Error analysis (Recommended approach)
 
