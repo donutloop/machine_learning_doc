@@ -87,3 +87,11 @@ Pick a network architecture (connecctivity pattern between neurons)
 # Building blocks of Deep Neural Networks
 
 ![building_blocks_of_deep_neural_networks](images/building_blocks_of_deep_neural_networks.png)
+
+## Normalizing inputs
+
+![normalizing_inputs](images/normalizing_inputs.png)
+
+### Why normalzing inputs 
+
+![why_normlizing](images/why_normlizing.jpg)
