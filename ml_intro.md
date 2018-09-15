@@ -133,6 +133,10 @@ if we have too many features, the learned hypothesis may fit the training set ve
     * Manually select which features to keep 
     * Model selection algorithm (automatically choosing of features)
 
+### What is weight decay
+
+* A regularization technique (such as L2 regularization) that results in gradient descent shrinking the weights on every iteration.
+
  ## Error analysis (Recommended approach)
 
  * Start with a simple algorithm that you can implement quickly, Implement it and test it on your cross validation data.
