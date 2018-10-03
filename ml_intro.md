@@ -158,3 +158,7 @@ if we have too many features, the learned hypothesis may fit the training set ve
  * Manually examine the 100 errors, and categorize them based on 
     * What type of email it is 
     * What cues (features) you think would have helped the algorithm classify them correctly
+
+### Exponentially weighted averages
+
+![exponentially weighted averages](images/exponentially_weighted_averages.jpeg)
