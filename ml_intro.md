@@ -162,3 +162,7 @@ if we have too many features, the learned hypothesis may fit the training set ve
 ### Exponentially weighted averages
 
 ![exponentially weighted averages](images/exponentially_weighted_averages.jpeg)
+
+### Gradient descent with momentum
+
+![Gradient descent with momentum](images/gradient_descent_with_momentum.jpeg)
