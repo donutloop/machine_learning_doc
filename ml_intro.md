@@ -133,6 +133,14 @@ if we have too many features, the learned hypothesis may fit the training set ve
     * Manually select which features to keep 
     * Model selection algorithm (automatically choosing of features)
 
+
+### Gradient descent
+
+#### Batch vs stochastic
+
+![batch_vs_stochastic](images/gradient_descent_batch_stoc.jpeg)
+
+
 ### What is weight decay
 
 * A regularization technique (such as L2 regularization) that results in gradient descent shrinking the weights on every iteration.
