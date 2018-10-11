@@ -10,3 +10,7 @@
 # Computation Graph
 
 ![computation_graph](images/computation_graph.png)
+
+# Linear combinations and span
+
+![Linear combinations and span](images/Linear_combinations_and_span.png)
