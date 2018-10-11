@@ -14,3 +14,7 @@
 # Linear combinations and span
 
 ![Linear combinations and span](images/Linear_combinations_and_span.png)
+
+# Matrix Multiplication
+
+![](images/matrix_multiplication.png)
