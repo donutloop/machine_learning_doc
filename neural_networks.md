@@ -99,3 +99,7 @@ Pick a network architecture (connecctivity pattern between neurons)
 ### Batch normalizing 
 
 ![Normalizing activations in a network](images/normalizing_activations_in_a_network.png)
+
+### Fitting Batch Norm into a neural network
+
+![Fitting Batch Norm into a neural network](images/fitting_batch_Norm_into_a_neural_network.png)
