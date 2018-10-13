@@ -95,3 +95,7 @@ Pick a network architecture (connecctivity pattern between neurons)
 ### Why normalzing inputs 
 
 ![why_normlizing](images/why_normlizing.jpg)
+
+### Batch normalizing 
+
+![Normalizing activations in a network](images/normalizing_activations_in_a_network.png)
