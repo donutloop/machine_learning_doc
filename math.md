@@ -17,4 +17,8 @@
 
 # Matrix Multiplication
 
-![](images/matrix_multiplication.png)
+![matrix multiplication](images/matrix_multiplication.png)
+
+# Block Matrix Multiplication
+
+![matrix block  multiplication](images/matrix_multiplication_block.png)
