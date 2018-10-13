@@ -22,3 +22,9 @@
 # Block Matrix Multiplication
 
 ![matrix block  multiplication](images/matrix_multiplication_block.png)
+
+# Matrix Inverse 
+
+![matrix inverse](images/matrix_inverse.png)
+
+![matrix inverse 2](images/matrix_inverse_2.png)
