@@ -28,3 +28,7 @@
 ![matrix inverse](images/matrix_inverse.png)
 
 ![matrix inverse 2](images/matrix_inverse_2.png)
+
+# Vector spaces
+
+![vector space](images/vector_space.png)
