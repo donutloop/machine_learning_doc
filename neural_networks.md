@@ -103,3 +103,7 @@ Pick a network architecture (connecctivity pattern between neurons)
 ### Fitting Batch Norm into a neural network
 
 ![Fitting Batch Norm into a neural network](images/fitting_batch_Norm_into_a_neural_network.png)
+
+## Softmax 
+
+![softmax](images/softmax.png)
