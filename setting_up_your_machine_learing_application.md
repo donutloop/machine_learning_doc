@@ -15,3 +15,9 @@ it is important to remove all columns from the dataset that influences negative 
 
 * ID 
 * ...
+
+## Data from different distrubtions
+
+if you have different data distrubtions then use your own data for dev and test partition and your other data for the train partition (A/B set)
+
+![data from different distrubtions](images/data_from_different_distrubtions.png)
