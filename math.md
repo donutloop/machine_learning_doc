@@ -32,3 +32,7 @@
 # Vector spaces
 
 ![vector space](images/vector_space.png)
+
+# In & independent
+
+![In & independent](images/in-independent.png)
