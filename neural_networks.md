@@ -107,3 +107,11 @@ Pick a network architecture (connecctivity pattern between neurons)
 ## Softmax 
 
 ![softmax](images/softmax.png)
+
+## Transfer learning 
+
+![transfer learning](images/transfer_learning.png)
+
+* Task A and B have the same input x
+* You have a lot morr data for Task A than Task B 
+* Low levlel features from A could be helpful for learning B
