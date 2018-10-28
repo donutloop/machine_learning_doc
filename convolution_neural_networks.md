@@ -2,6 +2,12 @@
 
 ![convolution_summary](images/convolution_summary.png)
 
+# Vertical Edge Detection
+
+![vertical edge detection](images/vertical_edge_detection.png)
+
+![edges](images/edges.png)
+
 ## Example of Layer
 ![convolution_network_layer_example](images/convolution_network_layer_example.png)
 
