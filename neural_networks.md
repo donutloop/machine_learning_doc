@@ -110,6 +110,8 @@ Pick a network architecture (connecctivity pattern between neurons)
 
 ## Transfer learning 
 
+Use sub elements of an pretrained arch and combine them with your arch to speed development and reducing cost of time investment to train a new model, most of the common frameworks for machine learing offering a feature to dump pretrained hyper parameters like weights.
+
 ![transfer learning](images/transfer_learning.png)
 
 * Task A and B have the same input x
