@@ -33,3 +33,7 @@ K-Means algorithm is a well-known algorithm for clustering data. In order to use
 * cosine similarity 
 * Jaccard Similarity
 * Euclidean distance
+
+# Example 
+
+![clustering](images/clustering.png)
